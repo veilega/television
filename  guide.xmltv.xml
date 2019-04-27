@@ -1,0 +1,900 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190426005300 -0300" stop="20190426032500 -0300" channel="Cinemax HD">
+    <title lang="pt">A Última Sessão de Cinema</title>
+    <desc lang="pt">Sonny e Duane divertem-se como podem em uma pequena cidade do Texas. Mas a cidade, aos poucos, parece estar morrendo, indicando aos rapazes que é hora de tomar uma decisão sobre o rumo de suas vidas(n)</desc>
+    <credits>
+      <director>Peter Bogdanovich</director>
+      <actor>Timothy Bottoms</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Cybill Shepherd</actor>
+      <actor>Ben Johnson</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Eileen Brennan</actor>
+      <actor>Clu Gulager</actor>
+      <actor>Randy Quaid</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190426032500 -0300" stop="20190426032600 -0300" channel="Cinemax HD">
+    <title lang="pt">Festival de Cinema de Berlim 2016</title>
+    <desc lang="pt">Veja a 66ª edição do Festival Internacional de Cinema de Berlin 2016, um dos festivais mais importantes do mundo, onde estão os melhores diretores e atores. Conheça os vencedores do Urso de Ouro deste ano(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190426032600 -0300" stop="20190426035100 -0300" channel="Cinemax HD">
+    <title lang="pt">Nosso Amor de Ontem</title>
+    <desc lang="pt">História de amor entre um homem que ambiciona tornar-se roteirista em Hollywood e sua namorada, mais preocupada em defender causas políticas(n)</desc>
+    <credits>
+      <director>Sydney Pollack</director>
+      <actor>Barbra Streisand</actor>
+      <actor>Robert Redford</actor>
+      <actor>Bradford Dillman</actor>
+      <actor>Lois Chiles</actor>
+      <actor>Patrick O'Neal</actor>
+      <actor>Don Keefer</actor>
+      <actor>James Wood</actor>
+      <actor>Susan Blakely</actor>
+      <actor>Dan Seymour</actor>
+      <actor>Suzanne Zenor</actor>
+    </credits>
+    <date>1973</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190426035100 -0300" stop="20190426055000 -0300" channel="Cinemax HD">
+    <title lang="pt">118 Dias</title>
+    <desc lang="pt">Teerã, 2009. O jornalista da Newsweek, Maziar Bahari, foi a seu país para cobrir as eleições em que se enfrentaram Ahmadineyad e Mousavi, sem imaginar que seria acusado de espionagem e sofreria torturas durante 118 dias(n)</desc>
+    <credits>
+      <director>Jon Stewart</director>
+      <actor>Gael García Bernal</actor>
+      <actor>Kim Bodnia</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Shohreh Aghdashloo</actor>
+      <actor>Haluk Bilginer</actor>
+      <actor>Golshifteh Farahani</actor>
+      <actor>Amir El-Masry</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190426055000 -0300" stop="20190426061500 -0300" channel="Cinemax HD">
+    <title lang="pt">Festival de Cinema de Berlim 2016</title>
+    <desc lang="pt">Veja a 66ª edição do Festival Internacional de Cinema de Berlin 2016, um dos festivais mais importantes do mundo, onde estão os melhores diretores e atores. Conheça os vencedores do Urso de Ouro deste ano(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190426061500 -0300" stop="20190426081300 -0300" channel="Cinemax HD">
+    <title lang="pt">Elvis &amp; Anabelle: O Despertar de um Amor</title>
+    <desc lang="pt">Anabelle é uma rainha de beleza em uma pequena cidade, sendo preparada para concorrer ao concurso de Miss Texas, aos cuidados da sua ambiciosa mãe(n)</desc>
+    <credits>
+      <director>Will Geiger</director>
+      <actor>Blake Lively</actor>
+      <actor>Joe Mantegna</actor>
+      <actor>Max Minghella</actor>
+      <actor>Keith Carradine</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Eloise DeJoria</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190426081300 -0300" stop="20190426101500 -0300" channel="Cinemax HD">
+    <title lang="pt">O Poder do Amor</title>
+    <desc lang="pt">Grace é a esposa perfeita, se dedica aos filhos e participa de eventos de caridade. Tem uma vida maravilhosa, até flagrar o marido beijando outra(n)</desc>
+    <credits>
+      <director>Lasse Hallström</director>
+      <actor>Julia Roberts</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Gena Rowlands</actor>
+      <actor>Kyra Sedgwick</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Haley Aull</actor>
+      <actor>Anne Shropshire</actor>
+      <actor>Ginnie Randall</actor>
+      <actor>Rebecca Koon</actor>
+      <actor>Rhoda Griffis</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190426101500 -0300" stop="20190426114500 -0300" channel="Cinemax HD">
+    <title lang="pt">Deus da Carnificina</title>
+    <desc lang="pt">Dois garotos brigam na escola, e seus pais decidem resolver o problema de forma civilizada. Os dois casais se encontram, mas as desavenças deles tornam-se piores que as das crianças(n)</desc>
+    <credits>
+      <director>Roman Polanski</director>
+      <actor>Jodie Foster</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Elvis Polanski</actor>
+      <actor>Nathan Rippy</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190426114500 -0300" stop="20190426134800 -0300" channel="Cinemax HD">
+    <title lang="pt">Zohan - O Agente Bom de Corte</title>
+    <desc lang="pt">Zohan é um agente israelense da Mossad que simula sua própria morte para ir a Nova York realizar seu sonho: transformar-se em cabeleireiro. Ele descobre que não á fácil escapar de suas raízes(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>John Turturro</actor>
+      <actor>Emmanuelle Chriqui</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Lainie Kazan</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Dave Matthews</actor>
+      <actor>Michael Buffer</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190426134800 -0300" stop="20190426155500 -0300" channel="Cinemax HD">
+    <title lang="pt">O Reencontro</title>
+    <desc lang="pt">Monte é um escritor com problemas de alcoolismo que se muda para a Belle Isle para reencontrar sua inspiração. Isso começa a acontecer quando ele faz amizade com a Sra. O'Neil, sua vizinha, mãe solteira com três filhas(n)</desc>
+    <credits>
+      <director>Rob Reiner</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Virginia Madsen</actor>
+      <actor>Madeline Carroll</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Emma Fuhrmann</actor>
+      <actor>Nicolette Pierini</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190426155500 -0300" stop="20190426180600 -0300" channel="Cinemax HD">
+    <title lang="pt">Sem Retorno</title>
+    <desc lang="pt">Um milionário com uma doença terminal é submetido a uma operação para transferir sua consciência ao corpo de um homem jovem e sadio(n)</desc>
+    <credits>
+      <director>Tarsem Singh</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Victor Garber</actor>
+      <actor>Derek Luke</actor>
+      <actor>Melora Hardin</actor>
+      <actor>Michelle Dockery</actor>
+      <actor>Brendan McCarthy</actor>
+      <actor>Natalie Martinez</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190426180600 -0300" stop="20190426195600 -0300" channel="Cinemax HD">
+    <title lang="pt">O Estrangeiro</title>
+    <desc lang="pt">O militar britânico Lex Walker recebe a notícia de que sua filha Sam foi assassinada e que deve viajar a Los Angeles para buscar o corpo. Ao chegar, percebe que aquela não é sua filha e começa a busca para encontrá-la(n)</desc>
+    <credits>
+      <director>Brian A Miller</director>
+      <actor>Craig Fairbrass</actor>
+      <actor>James Caan</actor>
+      <actor>Jason Patric</actor>
+      <actor>Shannon Elizabeth</actor>
+      <actor>Johnny Messner</actor>
+      <actor>Melissa Ordway</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190426195600 -0300" stop="20190426220000 -0300" channel="Cinemax HD">
+    <title lang="pt">Zohan - O Agente Bom de Corte</title>
+    <desc lang="pt">Zohan é um agente israelense da Mossad que simula sua própria morte para ir a Nova York realizar seu sonho: transformar-se em cabeleireiro. Ele descobre que não á fácil escapar de suas raízes(n)</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>John Turturro</actor>
+      <actor>Emmanuelle Chriqui</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Lainie Kazan</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Dave Matthews</actor>
+      <actor>Michael Buffer</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190426220000 -0300" stop="20190426235400 -0300" channel="Cinemax HD">
+    <title lang="pt">Se Beber, Não Case Parte 2</title>
+    <desc lang="pt">O que era para ser uma simples despedida de solteiro acabou se transformando em outra aventura muito louca, só que agora num país diferente, com suas proprias regras e a promessa de ser(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Paul Giamatti</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190426235400 -0300" stop="20190427015100 -0300" channel="Cinemax HD">
+    <title lang="pt">Sobrenatural</title>
+    <desc lang="pt">A trama conta a história de um casal (Patrick Wilson e Rose Byrne) que tenta evitar que o seu filho, que se encontra em estado de coma, seja encarcerado por espíritos demoníacos(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Andrew Astor</actor>
+      <actor>Barbara Hershey</actor>
+      <actor>Angus Sampson</actor>
+      <actor>Leigh Whannell</actor>
+      <actor>Lin Shaye</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190427015100 -0300" stop="20190427032800 -0300" channel="Cinemax HD">
+    <title lang="pt">Quatro Amigas e um Casamento</title>
+    <desc lang="pt">Três amigas de colégio se reúnem, anos mais tarde, para o casamento da gordinha Becky, quem nunca julgariam capaz do feito. Mesmo com dor de cotovelo, o trio lhe prepara uma despedida de solteira, que promete ser muito louca(n)</desc>
+    <credits>
+      <director>Leslye Headland</director>
+      <actor>Kirsten Dunst</actor>
+      <actor>Rebel Wilson</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Lizzy Caplan</actor>
+      <actor>Paul Corning</actor>
+      <actor>Andrew Rannells</actor>
+      <actor>Anna Rose Hopkins</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190427032800 -0300" stop="20190427053900 -0300" channel="Cinemax HD">
+    <title lang="pt">Os Infratores</title>
+    <desc lang="pt">Baseado em uma história real, o filme apresenta os irmãos Bondurant, que produzem e comercializam uísque nos anos de lei seca americana(n)</desc>
+    <credits>
+      <director>John Hillcoat</director>
+      <actor>Shia Labeouf</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Guy Pearce</actor>
+      <actor>Mia Wasikowska</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190427053900 -0300" stop="20190427060900 -0300" channel="Cinemax HD">
+    <title lang="pt">Festival de Cinema de Berlim 2016</title>
+    <desc lang="pt">Veja a 66ª edição do Festival Internacional de Cinema de Berlin 2016, um dos festivais mais importantes do mundo, onde estão os melhores diretores e atores. Conheça os vencedores do Urso de Ouro deste ano(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190427060900 -0300" stop="20190427090600 -0300" channel="Cinemax HD">
+    <title lang="pt">Império do Sol</title>
+    <desc lang="pt">A Segunda Guerra Mundial vista através dos olhos de um garoto, filho de funcionário inglês, feito prisioneiro num campo de concentração japonês(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Cristian Bale</actor>
+      <actor>John Malkovich</actor>
+      <actor>Nigel Havers</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Miranda Richardson</actor>
+      <actor>Leslie Phillips</actor>
+      <actor>Masatô Ibu</actor>
+      <actor>Emily Richard</actor>
+      <actor>Rupert Frazer</actor>
+      <actor>Peter Gale</actor>
+      <actor>Takatoro Kataoka</actor>
+    </credits>
+    <date>1987</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190427090600 -0300" stop="20190427104800 -0300" channel="Cinemax HD">
+    <title lang="pt">Uma Noite de Amor e Música</title>
+    <desc lang="pt">Cansado de enviar CDs de música à sua ex-namorada, Tris, Nick e seus amigos decidem ir atrás de sua banda favorita em um clube de Manhattan. Durante a busca, ele conhece Norah e o destino os leva a dividir uma noite fabulosa(n)</desc>
+    <credits>
+      <director>Peter Sollett</director>
+      <actor>Michael Cera</actor>
+      <actor>Kat Dennings</actor>
+      <actor>Aaron Yoo</actor>
+      <actor>Alexis Dziena</actor>
+      <actor>Rafi Gavron</actor>
+      <actor>Ari Graynor</actor>
+      <actor>Jonathan B. Wright</actor>
+      <actor>Zachary Booth</actor>
+      <actor>Justin Rice</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190427104800 -0300" stop="20190427125100 -0300" channel="Cinemax HD">
+    <title lang="pt">Jogo de Poder</title>
+    <desc lang="pt">A agente Valerie faz parte de uma equipe especializada da inteligência americana, que prova que o Iraque não tem armas de destruição em massa. Porém, mesmo com todas as evidências contrárias, os EUA invadem a terra de Saddam(n)</desc>
+    <credits>
+      <director>Doug Liman</director>
+      <actor>Naomi Watts</actor>
+      <actor>Sean Penn</actor>
+      <actor>Sonya Davison</actor>
+      <actor>Vanessa Chong</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190427125100 -0300" stop="20190427142800 -0300" channel="Cinemax HD">
+    <title lang="pt">Pequenos Espiões 4</title>
+    <desc lang="pt">Cecil e Rebecca são gêmeos de dez anos que descobrem que sua madrasta é uma agente secreta e resolvem ajudá-la em sua missão contra o perigoso Timekeeper. Para isso, eles vão contar com as dicas de Carmen e Juni Cortez(n)</desc>
+    <credits>
+      <director>Robert Rodriguez</director>
+      <actor>Jessica Alba</actor>
+      <actor>Jeremy Piven</actor>
+      <actor>Joel McHale</actor>
+      <actor>Rowan Blanchard</actor>
+      <actor>Danny Trejo</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190427142800 -0300" stop="20190427161200 -0300" channel="Cinemax HD">
+    <title lang="pt">Norm e os Invencíveis</title>
+    <desc lang="pt">Para salvar a floresta dos seres humanos que querem se mudar para seu habitat natural, Norm viaja para Nova York e se infiltra em uma grande empresa com a esperança de destruir seus planos de construir condomínios no Ártico(n)</desc>
+    <credits>
+      <director>Trevor Wall</director>
+      <actor>Vozes de Rob Schneider</actor>
+      <actor>Heather Graham</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Loretta Devine</actor>
+      <actor>Colm Meaney</actor>
+      <actor>Maya Kay</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190427161200 -0300" stop="20190427194900 -0300" channel="Cinemax HD">
+    <title lang="pt">À Espera de um Milagre</title>
+    <desc lang="pt">Guardas do Corredor da Morte, na década de 30, têm um dilema moral com seu trabalho quando eles descobrem que um dos prisioneiros, um assassino convicto, tem um dom especial(n)</desc>
+    <credits>
+      <director>Frank Darabont</director>
+      <actor>Tom Hanks</actor>
+      <actor>David Morse</actor>
+      <actor>Bonnie Hunt</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>James Cromwell</actor>
+      <actor>Michael Jeter</actor>
+      <actor>Graham Greene</actor>
+      <actor>Doug Hutchison</actor>
+      <actor>Sam Rockwell</actor>
+      <actor>Barry Pepper</actor>
+      <actor>Jeffrey DeMunn</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Harry Dean Stanton</actor>
+      <actor>Dabbs Greer</actor>
+      <actor>Eve Brent</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190427194900 -0300" stop="20190427220000 -0300" channel="Cinemax HD">
+    <title lang="pt">Dois Caras Legais</title>
+    <desc lang="pt">O detetive particular Holland March e o bandido Jackson Healy são obrigados a trabalhar juntos para resolver um caso de desaparecimento de uma garota e o suicídio de uma estrela de filmes pornô(n)</desc>
+    <credits>
+      <director>Shane Black</director>
+      <actor>Margaret Qualley</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Keith David</actor>
+      <actor>Lois Smith</actor>
+      <actor>Gil Gerard</actor>
+      <actor>Angourie Rice</actor>
+      <actor>Matt Bomer</actor>
+      <actor>Ryan Gosling</actor>
+      <actor>Russell Crowe</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190427220000 -0300" stop="20190428002300 -0300" channel="Cinemax HD">
+    <title lang="pt">Conexão Escobar</title>
+    <desc lang="pt">Robert Mazur é um agente infiltrado no negócio de cocaína chefiado por Pablo Escobar. Sob o disfarce de Bob Musella, o agente se arrisca para tentar incriminar a rede de traficantes e banqueiros que mantém as operações do cartel(n)</desc>
+    <credits>
+      <director>Brad Furman</director>
+      <actor>Bryan Cranston</actor>
+      <actor>Leanne Best</actor>
+      <actor>Daniel Mays</actor>
+      <actor>Tom Vaughan-Lawlor</actor>
+      <actor>Niall Hayes</actor>
+      <actor>Lara Decaro</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428002300 -0300" stop="20190428020500 -0300" channel="Cinemax HD">
+    <title lang="pt">Morte na Internet</title>
+    <desc lang="pt">Nabila é uma estudante de jornalismo tentando se afastar das redes sociais. Depois de testemunhar um assassinato, Nabila decide investigar uma série de homicídios cometidos por um assassino que assedia suas vítimas pelo do Twitter(n)</desc>
+    <credits>
+      <director>Micho Rutare</director>
+      <actor>Kim Little</actor>
+      <actor>Courtney Lakin</actor>
+      <actor>Joseph Poliquin</actor>
+      <actor>Ashley Bratcher</actor>
+      <actor>Elliott Armstrong</actor>
+      <actor>Ramsey Hanchette</actor>
+      <actor>Madison Junod</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428020500 -0300" stop="20190428051900 -0300" channel="Cinemax HD">
+    <title lang="pt">Os Oito Odiados</title>
+    <desc lang="pt">Anos depois da Guerra Civil, um caçador de recompensas e sua prisioneira buscam refúgio em uma cabana habitada por um grupo de pessoas odiáveis, após serem surpreendidos por uma tempestade de neve(n)</desc>
+    <credits>
+      <director>Quentin Tarantino</director>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Tim Roth</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Bruce Dern</actor>
+      <actor>James Parks</actor>
+      <actor>Walton Goggins</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190428051900 -0300" stop="20190428060300 -0300" channel="Cinemax HD">
+    <title lang="pt">O Leilão da Brillo Box</title>
+    <desc lang="pt">O Leilão da Brillo Box é um documentário que mostra como a escultura de Andy Warhol se transformou em um ícone da arte pop(n)</desc>
+    <credits>
+      <director>Lisanne Skyler</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190428060300 -0300" stop="20190428075400 -0300" channel="Cinemax HD">
+    <title lang="pt">A Origem da Vida</title>
+    <desc lang="pt">Henry é um menino superdotado que sempre interroga sua mãe a respeito da identidade do pai. Depois de muita insistência, ela revela que o garoto é fruto de inseminação artificial e que não conheceu o doador(n)</desc>
+    <credits>
+      <director>Dennis Lee</director>
+      <actor>Jason Spevack</actor>
+      <actor>Toni Collette</actor>
+      <actor>Michael Sheen</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428075400 -0300" stop="20190428093700 -0300" channel="Cinemax HD">
+    <title lang="pt">O Feiticeiro e a Serpente Branca</title>
+    <desc lang="pt">Em uma antiga terra habitada por seres místicos, um poderoso monge lutará pela alma de um jovem que caiu nas redes do demônio. Ele poderá salvar o homem que está apaixonado pela sua perigosa captora(n)</desc>
+    <credits>
+      <director>Siu-Tung Ching</director>
+      <actor>Jet Li</actor>
+      <actor>Vivian Hsu</actor>
+      <actor>Kar-Ying Law</actor>
+      <actor>Suet Lam</actor>
+      <actor>Shengyi Huang</actor>
+      <actor>Charlene Choi</actor>
+      <actor>Chapman To</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428093700 -0300" stop="20190428115500 -0300" channel="Cinemax HD">
+    <title lang="pt">Preto ou Branco</title>
+    <desc lang="pt">Elliot é um avô que cria sua neta Eloise após a trágica morte de sua mãe. Os problemas começam quando Rowena, a avó paterna da menina, exige a custódia de Eloise e começa uma disputa entre as duas famílias(n)</desc>
+    <credits>
+      <director>Mike Binder</director>
+      <actor>Kevin Costner</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Paula Newsome</actor>
+      <actor>Bertha Bindewald</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428115500 -0300" stop="20190428151700 -0300" channel="Cinemax HD">
+    <title lang="pt">O Senhor dos Anéis: As Duas Torres</title>
+    <desc lang="pt">Confira a 2a parte da trilogia épica O Senhor dos Anéis. O exército de Saruman está pronto para atacar Aragon. Frodo e Sam marcham sobre Mordor. A guerra vai começar(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Elijah Wood</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Sean Astin</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Christopher Lee</actor>
+      <actor>Miranda Otto</actor>
+      <actor>Bernard Hill</actor>
+      <actor>Bruce Hopkins</actor>
+      <actor>Andy Serkis</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428151700 -0300" stop="20190428165100 -0300" channel="Cinemax HD">
+    <title lang="pt">Os Jetsons e as Super-estrelas do Wwe</title>
+    <desc lang="pt">George descobre o lutador Big Show, congelado há 100 anos e que agora decide conquistar o mundo ao descobrir que no futuro a luta livre é praticada por robôs(n)</desc>
+    <credits>
+      <director>Anthony Bell</director>
+      <actor>Vozes de Jeff Bergman</actor>
+      <actor>JB Blanc</actor>
+      <actor>Michael Coulthard</actor>
+      <actor>Vince McMahon</actor>
+      <actor>Colby Lopez</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190428165100 -0300" stop="20190428182900 -0300" channel="Cinemax HD">
+    <title lang="pt">Na Trilha Da Vingança</title>
+    <desc lang="pt">Charlie Rankin é liberado da prisão e agora deve um favor ao homem que salvou sua vida: matar alguém para se livrar da dívida. Quando o plano não sai como esperado, Charlie conhece a misteriosa Florence e tenta mudar seu destino(n)</desc>
+    <credits>
+      <director>David Jacobson</director>
+      <actor>Stephen Dorff</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Tara Buck</actor>
+      <actor>Robert LaSardo</actor>
+      <actor>Kerry Rossall</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428182900 -0300" stop="20190428201600 -0300" channel="Cinemax HD">
+    <title lang="pt">Uma Viagem Infernal</title>
+    <desc lang="pt">Paul é um cientista que deve ir ao deserto africano para fazer um trabalho de pesquisa, em companhia de sua filha Josie e sua namorada Tally. Porém, caçadores assassinam Paul, e Josie e Tally têm que tentar sobreviver(n)</desc>
+    <credits>
+      <director>Evelyn Purcell</director>
+      <actor>Stephen Dorff</actor>
+      <actor>Maisie Williams</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Svetlana Metkina</actor>
+      <actor>Calvin Hayward</actor>
+      <actor>Jeanne Neilson</actor>
+      <actor>Ndalo Stofile</actor>
+      <actor>Andrew Roux</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190428201600 -0300" stop="20190428220000 -0300" channel="Cinemax HD">
+    <title lang="pt">O Código</title>
+    <desc lang="pt">Luke é um ex-policial que salva uma menina de bandidos dentro do metrô. Depois disso, descobre que ela tem uma informação de extrema importância para as máfias russa, chinesa e diversos grupos corruptos(n)</desc>
+    <credits>
+      <director>Boaz Yakin</director>
+      <actor>Jason Statham</actor>
+      <actor>Catherine Chan</actor>
+      <actor>Robert John Burke</actor>
+      <actor>James Hong</actor>
+      <actor>Anson Mount</actor>
+      <actor>Chris Sarandon</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190428220000 -0300" stop="20190429012100 -0300" channel="Cinemax HD">
+    <title lang="pt">O Senhor dos Anéis: As Duas Torres</title>
+    <desc lang="pt">Confira a 2a parte da trilogia épica O Senhor dos Anéis. O exército de Saruman está pronto para atacar Aragon. Frodo e Sam marcham sobre Mordor. A guerra vai começar(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Elijah Wood</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Sean Astin</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Christopher Lee</actor>
+      <actor>Miranda Otto</actor>
+      <actor>Bernard Hill</actor>
+      <actor>Bruce Hopkins</actor>
+      <actor>Andy Serkis</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190429012100 -0300" stop="20190429031300 -0300" channel="Cinemax HD">
+    <title lang="pt">Lenda Urbana 2</title>
+    <desc lang="pt">Aluna do curso de cinema começa a escrever o roteiro de um suspense baseado em filmes de terror. Mas algo estranho começa a acontecer com seus amigos(n)</desc>
+    <credits>
+      <director>John Ottman</director>
+      <actor>Joseph Lawrence</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Matthew Davis</actor>
+      <actor>Loretta Devine</actor>
+      <actor>Hart Bochner</actor>
+      <actor>Anson Mount</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Anthony Anderson</actor>
+      <actor>Jessica Cauffiel</actor>
+      <actor>Marco Hofschneider</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190429031300 -0300" stop="20190429050400 -0300" channel="Cinemax HD">
+    <title lang="pt">Agnes de Deus</title>
+    <desc lang="pt">Num convento distante, um bebê é encontrado estrangulado. A psiquiatra Martha é designada para resolver o caso. Todas as pistas levam a uma freira, a irmã Agnes(n)</desc>
+    <credits>
+      <director>Norman Jewison</director>
+      <actor>Jane Fonda</actor>
+      <actor>Anne Bancroft</actor>
+      <actor>Meg Tilly</actor>
+      <actor>Anne Pitoniak</actor>
+      <actor>Winston Rekert</actor>
+      <actor>Gratien Gélinas</actor>
+      <actor>Guy Hoffman</actor>
+      <actor>Gabriel Archand</actor>
+      <actor>Françoise Faucher</actor>
+      <actor>Deborah Grover</actor>
+    </credits>
+    <date>1985</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190429050400 -0300" stop="20190429053100 -0300" channel="Cinemax HD">
+    <title lang="pt">Festival de Cinema de Berlim 2016</title>
+    <desc lang="pt">Veja a 66ª edição do Festival Internacional de Cinema de Berlin 2016, um dos festivais mais importantes do mundo, onde estão os melhores diretores e atores. Conheça os vencedores do Urso de Ouro deste ano(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190429053100 -0300" stop="20190429072000 -0300" channel="Cinemax HD">
+    <title lang="pt">Olha quem está Falando</title>
+    <desc lang="pt">Mollie, uma mulher independente, é abandonada pelo amante mulherengo quando conta que está grávida, mas resolve ter o filho mesmo assim(n)</desc>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>George Segal</actor>
+      <actor>Abe Vigoda</actor>
+      <actor>Twink Caplan</actor>
+      <actor>Jason Schaller</actor>
+      <actor>Don S. Davis</actor>
+      <actor>Joy Boushel</actor>
+      <actor>Jacob Haines</actor>
+    </credits>
+    <date>1989</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190429072000 -0300" stop="20190429090500 -0300" channel="Cinemax HD">
+    <title lang="pt">A Hora da Mudança</title>
+    <desc lang="pt">Os moradores de uma pequena cidade da Sicília estão cansados de viver no caos, o que os faz infringir a lei(n)</desc>
+    <credits>
+      <director>Ficarra</director>
+      <director>Picone</director>
+      <actor>Vincenzo Amato</actor>
+      <actor>Antonio Catania</actor>
+      <actor>Leo Gullotta</actor>
+      <actor>Sergio Friscia</actor>
+      <actor>Ficarra</actor>
+      <actor>Picone</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190429090500 -0300" stop="20190429104100 -0300" channel="Cinemax HD">
+    <title lang="pt">Lucas - Um Intruso no Formigueiro</title>
+    <desc lang="pt">Após afogar um formigueiro, Lucas Nickle tem seu tamanho misteriosamente diminuído, até ficar na altura de uma formiga. Ele é, então, obrigado a trabalhar como escravo na reconstrução do formigueiro que ele mesmo destruiu(n)</desc>
+    <credits>
+      <director>John A. Davis</director>
+      <actor>Vozes de Julia Roberts</actor>
+      <actor>Nicolas Cage</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Zach Tyler</actor>
+      <actor>Regina King</actor>
+      <actor>Bruce Campbell</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Larry Miller</actor>
+      <actor>Allison Mack</actor>
+      <actor>Ricardo Montalban</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190429104100 -0300" stop="20190429121100 -0300" channel="Cinemax HD">
+    <title lang="pt">Deus da Carnificina</title>
+    <desc lang="pt">Dois garotos brigam na escola, e seus pais decidem resolver o problema de forma civilizada. Os dois casais se encontram, mas as desavenças deles tornam-se piores que as das crianças(n)</desc>
+    <credits>
+      <director>Roman Polanski</director>
+      <actor>Jodie Foster</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Elvis Polanski</actor>
+      <actor>Nathan Rippy</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190429121100 -0300" stop="20190429141300 -0300" channel="Cinemax HD">
+    <title lang="pt">Antes da Meia-noite</title>
+    <desc lang="pt">Passaram quase duas décadas desde que Céline e Jesse se conheceram no trem, em Viena. Agora estão casados, com duas filhas e estão de férias na Grécia, onde mudaram seus diálogos românticos por intermináveis confusões(n)</desc>
+    <credits>
+      <director>Richard Linklater</director>
+      <actor>Ethan Hawke</actor>
+      <actor>Julie Delpy</actor>
+      <actor>Charlotte Prior</actor>
+      <actor>Seamus Davey-Fitzpatrick</actor>
+      <actor>Jennifer Prior</actor>
+      <actor>Xenia Kalogeropoulou</actor>
+      <actor>Walter Lassally</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190429141300 -0300" stop="20190429160900 -0300" channel="Cinemax HD">
+    <title lang="pt">Caçadora de Gigantes</title>
+    <desc lang="pt">Bárbara Thorson é uma garota rebelde e solitária que prefere o mundo de calabouços e dragões ao mundo real(n)</desc>
+    <credits>
+      <director>Anders Walter</director>
+      <actor>Madison Wolfe</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Imogen Poots</actor>
+      <actor>Sydney Wade</actor>
+      <actor>Allanah O'Connor</actor>
+      <actor>Brandon Maher</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190429160900 -0300" stop="20190429180000 -0300" channel="Cinemax HD">
+    <title lang="pt">Boneco do Mal</title>
+    <desc lang="pt">Grata Evans é uma babá contratada para cuidar de um boneco cujos proprietários afirmam ser seu filho. Antes de sair de casa, o casal lhe dá uma lista de regras bizarras e avisa que se ela não seguir, o boneco pode se irritar(n)</desc>
+    <credits>
+      <director>William Brent Bell</director>
+      <actor>Rupert Evans</actor>
+      <actor>James Russell</actor>
+      <actor>Jim Norton</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Diana Hardcastle</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190429180000 -0300" stop="20190429191100 -0300" channel="Cinemax HD">
+    <title lang="pt">Minha Vida é um Circo: Os Bons Filhos</title>
+    <desc lang="pt">É hora de voltar pra casa. Guga se despede e ruma para a Espanha. De volta à rotina, a mente de Montanha, Cafi e Du está fervilhando, e um convite inesperado para uma importante apresentação vai testar o sangue frio da trupe(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190429191100 -0300" stop="20190429201800 -0300" channel="Cinemax HD">
+    <title lang="pt">Dia Um</title>
+    <desc lang="pt">Rodrigo e Flávia Dórea se preparam para a chegada dos trigêmeos, enquanto Reginaldo e Keity Ramos preparam todos os detalhes para receber os dois irmãozinhos que estão prestes a adotar(n)</desc>
+    <credits>
+      <director>Dainara Toffoli</director>
+      <director>Renato Rossi</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190429201800 -0300" stop="20190429222700 -0300" channel="Cinemax HD">
+    <title lang="pt">Efeito Borboleta</title>
+    <desc lang="pt">Um jovem consegue retornar fisicamente ao seu corpo de criança, no intuito de eliminar de uma vez por todas seus problemas do passado. Mas a cada volta as coisas se complicam ainda mais(n)</desc>
+    <credits>
+      <director>Eric Bress</director>
+      <actor>Ashton Kutcher</actor>
+      <actor>Melora Walters</actor>
+      <actor>Amy Smart</actor>
+      <actor>Elden Henson</actor>
+      <actor>William Lee Scott</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+</tv>
