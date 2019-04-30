@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id=" BLOOMBERG TV">
+    <display-name lang="en"> BLOOMBERG TV</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/bloomberg.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <programme start="20190430010000 +0000" stop="20190430020000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: China Open</title>
+    <desc lang="en">Analysts bring you the latest news and global trends that impact the Chinese market(n)</desc>
+    <category lang="en">Financial</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430020000 +0000" stop="20190430030000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Asia</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news information as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430030000 +0000" stop="20190430040000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430040000 +0000" stop="20190430050000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Middle East</title>
+    <desc lang="en">Connecting Asian markets to the European ones with a focus on Middle Eastern issues(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430050000 +0000" stop="20190430063000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Europe</title>
+    <desc lang="en">Tracking the breaking and top business news stories in the lead-up to the opening of European markets(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430063000 +0000" stop="20190430080000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Open</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430080000 +0000" stop="20190430110000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Surveillance</title>
+    <desc lang="en">Tom Keene, Brendan Greeley and Vonnie Quinn bring insight on the top business stories and the state of the markets getting you ready for the day ahead(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430110000 +0000" stop="20190430130000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Americas</title>
+    <desc lang="en">Intelligent, useful conversation for the busy, successful professional that draws upon the vast resources of Bloomberg(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430130000 +0000" stop="20190430140000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: The Open</title>
+    <desc lang="en">The program showcases the most insightful and interesting Bloomberg charts and graphics, as well as research, commentary and analysis(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430140000 +0000" stop="20190430150000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430150000 +0000" stop="20190430160000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Close</title>
+    <desc lang="en">An analysis of the major market moving stories across the day in Europe(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430160000 +0000" stop="20190430170000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Balance of Power</title>
+    <desc lang="en">We focus on the politics and policies being shaped by the agenda of President Trump's administration(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430170000 +0000" stop="20190430180000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430180000 +0000" stop="20190430200000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: The Close</title>
+    <desc lang="en">Get the latest news, data and analysis leading up to the closing bell on Wall Street(n)</desc>
+    <category lang="en">Financial</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430200000 +0000" stop="20190430210000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">What'd You Miss?</title>
+    <desc lang="en">Bloomberg TV's flagship markets program, providing key insights, analysis and context at the market close. It's a counterintuitive, highly intelligent look at the markets that misses absolutely nothing(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430210000 +0000" stop="20190430220000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430220000 +0000" stop="20190430230000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Australia</title>
+    <desc lang="en">The latest news impacting markets, business, and finance around the world(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430230000 +0000" stop="20190430233000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">High Flyers</title>
+    <sub-title lang="en">Thanathorn Juangroongruangkit</sub-title>
+    <desc lang="en">Thai billionaire Thanathorn Juangroongruangkit discusses why he's giving up the auto parts industry to take on Thailand's political elite(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190430233000 +0000" stop="20190501000000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">High Flyers</title>
+    <sub-title lang="en">Phuong Uyen Tran, THP Beverages, Deputy CEO</sub-title>
+    <desc lang="en">From the ravages of the Vietnam War why \"Nothing is Impossible\". THP's Phuong Uyen Tran tells Haslinda Amin why her family said \"no\" to Coca-Cola's $2.5b offer(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501000000 +0000" stop="20190501003000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">High Flyers</title>
+    <sub-title lang="en">William Tanuwijaya, Tokopedia Founder &amp; CEO</sub-title>
+    <desc lang="en">Founder and CEO of e-commerce giant Tokopedia, William Tanuwijaya sits down with Haslinda(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501003000 +0000" stop="20190501010000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">High Flyers</title>
+    <sub-title lang="en">Taha Bouqdib: TWG Tea Founder, President and CEO</sub-title>
+    <desc lang="en">Taha Bouqdib stops by to discuss his AWG brand, and how its become one of the fastest growing in the world with distribution in 42 countries(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501010000 +0000" stop="20190501013000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Leaders With Lacqua</title>
+    <sub-title lang="en">Paul Bulcke</sub-title>
+    <desc lang="en">Francine speaks to the Chairman of Nestle, Paul Bulcke(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501013000 +0000" stop="20190501020000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Leaders With Lacqua</title>
+    <sub-title lang="en">Nigel Wilson</sub-title>
+    <desc lang="en">Francine sits down with CEO of Legal and General, Nigel Wilson, to talk about the insurance business, diversity and geopolitical risks(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501020000 +0000" stop="20190501023000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Leaders With Lacqua</title>
+    <sub-title lang="en">Robert Kunze-Concewitz</sub-title>
+    <desc lang="en">Francine sits down with the CEO of Campari, Robert Kunze-Concewitz, and they discuss M&amp;A strategies, changing tastes in the alcohol world, and his priorities as a leader(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501023000 +0000" stop="20190501030000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Leaders With Lacqua</title>
+    <sub-title lang="en">John Holland-Kaye</sub-title>
+    <desc lang="en">Francine chats with the CEO of Heathrow airport, John Holland-Kaye about turning around an airport and the future of aviation(n)</desc>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501030000 +0000" stop="20190501040000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501040000 +0000" stop="20190501043000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501043000 +0000" stop="20190501050000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190501050000 +0000" stop="20190501063000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Europe</title>
+    <desc lang="en">Tracking the breaking and top business news stories in the lead-up to the opening of European markets(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501063000 +0000" stop="20190501080000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Open</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501080000 +0000" stop="20190501110000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Surveillance</title>
+    <desc lang="en">Tom Keene, Brendan Greeley and Vonnie Quinn bring insight on the top business stories and the state of the markets getting you ready for the day ahead(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501110000 +0000" stop="20190501130000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Americas</title>
+    <desc lang="en">Intelligent, useful conversation for the busy, successful professional that draws upon the vast resources of Bloomberg(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501130000 +0000" stop="20190501140000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: The Open</title>
+    <desc lang="en">The program showcases the most insightful and interesting Bloomberg charts and graphics, as well as research, commentary and analysis(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501140000 +0000" stop="20190501150000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501150000 +0000" stop="20190501160000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Close</title>
+    <desc lang="en">An analysis of the major market moving stories across the day in Europe(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501160000 +0000" stop="20190501170000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Balance of Power</title>
+    <desc lang="en">We focus on the politics and policies being shaped by the agenda of President Trump's administration(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501170000 +0000" stop="20190501173000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg ETF IQ</title>
+    <desc lang="en">Bloomberg ETF IQ is the first and only show solely focusing on the opportunities, risks and current events in the Exchange Traded Funds (ETFs) industry, which now represent 30% of all U.S. equity trading(n)</desc>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20190501173000 +0000" stop="20190501180000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501180000 +0000" stop="20190501200000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">The Fed Decides</title>
+    <desc lang="en">Join us for this special report on new Federal Chairman Jerome Powell's first-ever rate decision and news conference. We'll tell you what investors are expecting and what the move means for markets(n)</desc>
+    <category lang="en">Financial</category>
+  </programme>
+  <programme start="20190501200000 +0000" stop="20190501210000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">What'd You Miss?</title>
+    <desc lang="en">Bloomberg TV's flagship markets program, providing key insights, analysis and context at the market close. It's a counterintuitive, highly intelligent look at the markets that misses absolutely nothing(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501210000 +0000" stop="20190501220000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501220000 +0000" stop="20190501230000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Australia</title>
+    <desc lang="en">The latest news impacting markets, business, and finance around the world(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501230000 +0000" stop="20190502010000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Asia</title>
+    <desc lang="en">Stories from the close of U.S. markets to the open of Asian trading(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502010000 +0000" stop="20190502013000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">The David Rubenstein Show: Peer to Peer Conversations</title>
+    <sub-title lang="en">Randall Stephenson: AT&amp;T Chairman and CEO</sub-title>
+    <desc lang="en">David sits down with the Chairman and CEO of AT&amp;T, Randall Stephenson to discuss a wide-range of topics including technology, and the future of global communications(n)</desc>
+    <category lang="en">Discussion</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190502013000 +0000" stop="20190502020000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Studio 1.0</title>
+    <sub-title lang="en">Nick Woodman: GoPro CEO</sub-title>
+    <desc lang="en">Nick Woodman, CEO of GoPro stops by the studio(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+  </programme>
+  <programme start="20190502020000 +0000" stop="20190502030000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Asia</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news information as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502030000 +0000" stop="20190502040000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502040000 +0000" stop="20190502043000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190502043000 +0000" stop="20190502050000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190502050000 +0000" stop="20190502063000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Europe</title>
+    <desc lang="en">Tracking the breaking and top business news stories in the lead-up to the opening of European markets(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502063000 +0000" stop="20190502080000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Open</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502080000 +0000" stop="20190502110000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Surveillance</title>
+    <desc lang="en">Tom Keene, Brendan Greeley and Vonnie Quinn bring insight on the top business stories and the state of the markets getting you ready for the day ahead(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502110000 +0000" stop="20190502130000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Americas</title>
+    <desc lang="en">Intelligent, useful conversation for the busy, successful professional that draws upon the vast resources of Bloomberg(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502130000 +0000" stop="20190502140000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: The Open</title>
+    <desc lang="en">The program showcases the most insightful and interesting Bloomberg charts and graphics, as well as research, commentary and analysis(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502140000 +0000" stop="20190502150000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502150000 +0000" stop="20190502160000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Close</title>
+    <desc lang="en">An analysis of the major market moving stories across the day in Europe(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502160000 +0000" stop="20190502170000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Balance of Power</title>
+    <desc lang="en">We focus on the politics and policies being shaped by the agenda of President Trump's administration(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502170000 +0000" stop="20190502173000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Commodities Edge</title>
+    <desc lang="en">The smartest voices from the commodity world discuss the latest stories and trends and how they affect the global market. Proprietary BNEF research is used to break down the trade of the week and top executives are featured(n)</desc>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20190502173000 +0000" stop="20190502180000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502180000 +0000" stop="20190502200000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: The Close</title>
+    <desc lang="en">Get the latest news, data and analysis leading up to the closing bell on Wall Street(n)</desc>
+    <category lang="en">Financial</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502200000 +0000" stop="20190502210000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">What'd You Miss?</title>
+    <desc lang="en">Bloomberg TV's flagship markets program, providing key insights, analysis and context at the market close. It's a counterintuitive, highly intelligent look at the markets that misses absolutely nothing(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502210000 +0000" stop="20190502220000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502220000 +0000" stop="20190502230000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Australia</title>
+    <desc lang="en">The latest news impacting markets, business, and finance around the world(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502230000 +0000" stop="20190503010000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Asia</title>
+    <desc lang="en">Stories from the close of U.S. markets to the open of Asian trading(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503010000 +0000" stop="20190503020000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: China Open</title>
+    <desc lang="en">Analysts bring you the latest news and global trends that impact the Chinese market(n)</desc>
+    <category lang="en">Financial</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503020000 +0000" stop="20190503030000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Asia</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news information as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503030000 +0000" stop="20190503040000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503040000 +0000" stop="20190503043000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190503043000 +0000" stop="20190503050000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming(n)</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190503050000 +0000" stop="20190503063000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Europe</title>
+    <desc lang="en">Tracking the breaking and top business news stories in the lead-up to the opening of European markets(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503063000 +0000" stop="20190503080000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Open</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503080000 +0000" stop="20190503110000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Surveillance</title>
+    <desc lang="en">Tom Keene, Brendan Greeley and Vonnie Quinn bring insight on the top business stories and the state of the markets getting you ready for the day ahead(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503110000 +0000" stop="20190503130000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Daybreak: Americas</title>
+    <desc lang="en">Intelligent, useful conversation for the busy, successful professional that draws upon the vast resources of Bloomberg(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503130000 +0000" stop="20190503140000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: The Open</title>
+    <desc lang="en">The program showcases the most insightful and interesting Bloomberg charts and graphics, as well as research, commentary and analysis(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503140000 +0000" stop="20190503150000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503150000 +0000" stop="20190503160000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: European Close</title>
+    <desc lang="en">An analysis of the major market moving stories across the day in Europe(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503160000 +0000" stop="20190503170000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Balance of Power</title>
+    <desc lang="en">We focus on the politics and policies being shaped by the agenda of President Trump's administration(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503170000 +0000" stop="20190503173000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Real Yield</title>
+    <desc lang="en">A focus on global issues and events that directly affect debt markets. Host Jonathan Ferro discusses stories from the fixed income world with the biggest names in the field(n)</desc>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20190503173000 +0000" stop="20190503180000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: Americas</title>
+    <desc lang="en">Bringing you the most important global business and breaking markets news as it happens(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503180000 +0000" stop="20190503200000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Markets: The Close</title>
+    <desc lang="en">Get the latest news, data and analysis leading up to the closing bell on Wall Street(n)</desc>
+    <category lang="en">Financial</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503200000 +0000" stop="20190503210000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">What'd You Miss?</title>
+    <desc lang="en">Bloomberg TV's flagship markets program, providing key insights, analysis and context at the market close. It's a counterintuitive, highly intelligent look at the markets that misses absolutely nothing(n)</desc>
+    <category lang="en">Business</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503210000 +0000" stop="20190503220000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Technology</title>
+    <desc lang="en">A daily news program focused on technology, innovation and the future of business(n)</desc>
+    <category lang="en">Computers &amp; Technologies</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503220000 +0000" stop="20190503223000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">The David Rubenstein Show: Peer to Peer Conversations</title>
+    <desc lang="en">David Rubenstein talks to leaders to uncover their stories and their path to success(n)</desc>
+    <category lang="en">Discussion</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20190503223000 +0000" stop="20190503230000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg ETF IQ</title>
+    <desc lang="en">Bloomberg ETF IQ is the first and only show solely focusing on the opportunities, risks and current events in the Exchange Traded Funds (ETFs) industry, which now represent 30% of all U.S. equity trading(n)</desc>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20190503230000 +0000" stop="20190503233000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Commodities Edge</title>
+    <desc lang="en">The smartest voices from the commodity world discuss the latest stories and trends and how they affect the global market. Proprietary BNEF research is used to break down the trade of the week and top executives are featured(n)</desc>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20190503233000 +0000" stop="20190504000000 +0000" channel=" BLOOMBERG TV">
+    <title lang="en">Bloomberg Real Yield</title>
+    <desc lang="en">A focus on global issues and events that directly affect debt markets. Host Jonathan Ferro discusses stories from the fixed income world with the biggest names in the field(n)</desc>
+    <category lang="en">Discussion</category>
+  </programme>
+</tv>
