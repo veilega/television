@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CNN HD">
+    <display-name lang="en">CNN HD</display-name>
+    <icon src="https://tvtv.us/tvm/i/image/station/100x100/cnn.png" />
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <programme start="20190430000000 +0000" stop="20190430010000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430010000 +0000" stop="20190430020000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190430020000 +0000" stop="20190430030000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190430030000 +0000" stop="20190430040000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190430040000 +0000" stop="20190430050000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430050000 +0000" stop="20190430060000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190430060000 +0000" stop="20190430070000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190430070000 +0000" stop="20190430080000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190430080000 +0000" stop="20190430090000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430090000 +0000" stop="20190430100000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430100000 +0000" stop="20190430110000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430110000 +0000" stop="20190430120000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430120000 +0000" stop="20190430130000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430130000 +0000" stop="20190430140000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430140000 +0000" stop="20190430150000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430150000 +0000" stop="20190430160000 +0000" channel="CNN HD">
+    <title lang="en">At This Hour with Kate Bolduan</title>
+    <desc lang="en">Featuring the most interesting news stories of the day(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190430160000 +0000" stop="20190430170000 +0000" channel="CNN HD">
+    <title lang="en">Inside Politics</title>
+    <desc lang="en">A rotating group of America's top political reporters who will provide an inside look into the key stories for the week(n)</desc>
+    <category lang="en">Political</category>
+  </programme>
+  <programme start="20190430170000 +0000" stop="20190430180000 +0000" channel="CNN HD">
+    <title lang="en">CNN Right Now With Brianna Keilar</title>
+    <desc lang="en">Brianna Keilar breaks down the headlines as they unfold with a mix of reporters, analysts and newsmakers(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20190430180000 +0000" stop="20190430190000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430190000 +0000" stop="20190430200000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430200000 +0000" stop="20190430210000 +0000" channel="CNN HD">
+    <title lang="en">The Lead With Jake Tapper</title>
+    <desc lang="en">Compelling headlines from around the country and the globe, from politics to finance, sports to popular culture, and a wide range of other topics based on news drivers of the day(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430210000 +0000" stop="20190430220000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430220000 +0000" stop="20190430230000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190430230000 +0000" stop="20190501000000 +0000" channel="CNN HD">
+    <title lang="en">OutFront</title>
+    <desc lang="en">Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501000000 +0000" stop="20190501010000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501010000 +0000" stop="20190501020000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190501020000 +0000" stop="20190501030000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190501030000 +0000" stop="20190501040000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190501040000 +0000" stop="20190501050000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501050000 +0000" stop="20190501060000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190501060000 +0000" stop="20190501070000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190501070000 +0000" stop="20190501080000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190501080000 +0000" stop="20190501090000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501090000 +0000" stop="20190501100000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501100000 +0000" stop="20190501110000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501110000 +0000" stop="20190501120000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501120000 +0000" stop="20190501130000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501130000 +0000" stop="20190501140000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501140000 +0000" stop="20190501150000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501150000 +0000" stop="20190501160000 +0000" channel="CNN HD">
+    <title lang="en">At This Hour with Kate Bolduan</title>
+    <desc lang="en">Featuring the most interesting news stories of the day(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190501160000 +0000" stop="20190501170000 +0000" channel="CNN HD">
+    <title lang="en">Inside Politics</title>
+    <desc lang="en">A rotating group of America's top political reporters who will provide an inside look into the key stories for the week(n)</desc>
+    <category lang="en">Political</category>
+  </programme>
+  <programme start="20190501170000 +0000" stop="20190501180000 +0000" channel="CNN HD">
+    <title lang="en">CNN Right Now With Brianna Keilar</title>
+    <desc lang="en">Brianna Keilar breaks down the headlines as they unfold with a mix of reporters, analysts and newsmakers(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20190501180000 +0000" stop="20190501190000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501190000 +0000" stop="20190501200000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501200000 +0000" stop="20190501210000 +0000" channel="CNN HD">
+    <title lang="en">The Lead With Jake Tapper</title>
+    <desc lang="en">Compelling headlines from around the country and the globe, from politics to finance, sports to popular culture, and a wide range of other topics based on news drivers of the day(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501210000 +0000" stop="20190501220000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501220000 +0000" stop="20190501230000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190501230000 +0000" stop="20190502000000 +0000" channel="CNN HD">
+    <title lang="en">OutFront</title>
+    <desc lang="en">Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502000000 +0000" stop="20190502010000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502010000 +0000" stop="20190502020000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190502020000 +0000" stop="20190502030000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190502030000 +0000" stop="20190502040000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190502040000 +0000" stop="20190502050000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502050000 +0000" stop="20190502060000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190502060000 +0000" stop="20190502070000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190502070000 +0000" stop="20190502080000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190502080000 +0000" stop="20190502090000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502090000 +0000" stop="20190502100000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502100000 +0000" stop="20190502110000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502110000 +0000" stop="20190502120000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502120000 +0000" stop="20190502130000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502130000 +0000" stop="20190502140000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502140000 +0000" stop="20190502150000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502150000 +0000" stop="20190502160000 +0000" channel="CNN HD">
+    <title lang="en">At This Hour with Kate Bolduan</title>
+    <desc lang="en">Featuring the most interesting news stories of the day(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190502160000 +0000" stop="20190502170000 +0000" channel="CNN HD">
+    <title lang="en">Inside Politics</title>
+    <desc lang="en">A rotating group of America's top political reporters who will provide an inside look into the key stories for the week(n)</desc>
+    <category lang="en">Political</category>
+  </programme>
+  <programme start="20190502170000 +0000" stop="20190502180000 +0000" channel="CNN HD">
+    <title lang="en">CNN Right Now With Brianna Keilar</title>
+    <desc lang="en">Brianna Keilar breaks down the headlines as they unfold with a mix of reporters, analysts and newsmakers(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20190502180000 +0000" stop="20190502190000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502190000 +0000" stop="20190502200000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502200000 +0000" stop="20190502210000 +0000" channel="CNN HD">
+    <title lang="en">The Lead With Jake Tapper</title>
+    <desc lang="en">Compelling headlines from around the country and the globe, from politics to finance, sports to popular culture, and a wide range of other topics based on news drivers of the day(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502210000 +0000" stop="20190502220000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502220000 +0000" stop="20190502230000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190502230000 +0000" stop="20190503000000 +0000" channel="CNN HD">
+    <title lang="en">OutFront</title>
+    <desc lang="en">Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503000000 +0000" stop="20190503010000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503010000 +0000" stop="20190503020000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190503020000 +0000" stop="20190503030000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190503030000 +0000" stop="20190503040000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190503040000 +0000" stop="20190503050000 +0000" channel="CNN HD">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Features breaking news from around the world and pop culture stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503050000 +0000" stop="20190503060000 +0000" channel="CNN HD">
+    <title lang="en">Cuomo Prime Time</title>
+    <desc lang="en">Chris Cuomo asks the tough questions to newsmakers in Washington and around the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190503060000 +0000" stop="20190503070000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190503070000 +0000" stop="20190503080000 +0000" channel="CNN HD">
+    <title lang="en">CNN Tonight With Don Lemon</title>
+    <desc lang="en">Don Lemon presents the day's biggest stories(n)</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20190503080000 +0000" stop="20190503090000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503090000 +0000" stop="20190503100000 +0000" channel="CNN HD">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Wake up to CNN's morning show to catch the latest breaking news and trending stories you'll want to know(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503100000 +0000" stop="20190503110000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503110000 +0000" stop="20190503120000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503120000 +0000" stop="20190503130000 +0000" channel="CNN HD">
+    <title lang="en">New Day</title>
+    <desc lang="en">The latest news, weather and high interest stories to start your day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503130000 +0000" stop="20190503140000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503140000 +0000" stop="20190503150000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503150000 +0000" stop="20190503160000 +0000" channel="CNN HD">
+    <title lang="en">At This Hour with Kate Bolduan</title>
+    <desc lang="en">Featuring the most interesting news stories of the day(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20190503160000 +0000" stop="20190503170000 +0000" channel="CNN HD">
+    <title lang="en">Inside Politics</title>
+    <desc lang="en">A rotating group of America's top political reporters who will provide an inside look into the key stories for the week(n)</desc>
+    <category lang="en">Political</category>
+  </programme>
+  <programme start="20190503170000 +0000" stop="20190503180000 +0000" channel="CNN HD">
+    <title lang="en">CNN Right Now With Brianna Keilar</title>
+    <desc lang="en">Brianna Keilar breaks down the headlines as they unfold with a mix of reporters, analysts and newsmakers(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20190503180000 +0000" stop="20190503190000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503190000 +0000" stop="20190503200000 +0000" channel="CNN HD">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">Updates of the latest news from around the world and interviews are featured(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503200000 +0000" stop="20190503210000 +0000" channel="CNN HD">
+    <title lang="en">The Lead With Jake Tapper</title>
+    <desc lang="en">Compelling headlines from around the country and the globe, from politics to finance, sports to popular culture, and a wide range of other topics based on news drivers of the day(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503210000 +0000" stop="20190503220000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503220000 +0000" stop="20190503230000 +0000" channel="CNN HD">
+    <title lang="en">The Situation Room With Wolf Blitzer</title>
+    <desc lang="en">A raw, unfiltered look at the world(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20190503230000 +0000" stop="20190504000000 +0000" channel="CNN HD">
+    <title lang="en">OutFront</title>
+    <desc lang="en">Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative(n)</desc>
+    <category lang="en">Current Affairs</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+</tv>
