@@ -1,631 +1,522 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Brasil AXN HD">
-    <display-name lang="pt">Brasil AXN HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <programme start="20190430004500 -0300" stop="20190430014000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430014000 -0300" stop="20190430023500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430023500 -0300" stop="20190430033000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430033000 -0300" stop="20190430042500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430042500 -0300" stop="20190430051500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430051500 -0300" stop="20190430060000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430060000 -0300" stop="20190430070000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430070000 -0300" stop="20190430080000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430080000 -0300" stop="20190430090000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430090000 -0300" stop="20190430100000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430100000 -0300" stop="20190430110000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430110000 -0300" stop="20190430115500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430115500 -0300" stop="20190430125000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430125000 -0300" stop="20190430134500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430134500 -0300" stop="20190430144000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430144000 -0300" stop="20190430153500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430153500 -0300" stop="20190430163000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430163000 -0300" stop="20190430172500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430172500 -0300" stop="20190430182000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430182000 -0300" stop="20190430191500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430191500 -0300" stop="20190430201000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430201000 -0300" stop="20190430210500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430210500 -0300" stop="20190430220000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430220000 -0300" stop="20190430225500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430225500 -0300" stop="20190430235000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190430235000 -0300" stop="20190501004500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501004500 -0300" stop="20190501014000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501014000 -0300" stop="20190501023500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501023500 -0300" stop="20190501033000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501033000 -0300" stop="20190501042500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501042500 -0300" stop="20190501051500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501051500 -0300" stop="20190501060000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501060000 -0300" stop="20190501070000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501070000 -0300" stop="20190501080000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501080000 -0300" stop="20190501090000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501090000 -0300" stop="20190501100000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501100000 -0300" stop="20190501110000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501110000 -0300" stop="20190501115500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501115500 -0300" stop="20190501125000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501125000 -0300" stop="20190501134500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501134500 -0300" stop="20190501144000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501144000 -0300" stop="20190501153500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501153500 -0300" stop="20190501163000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501163000 -0300" stop="20190501172500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501172500 -0300" stop="20190501182000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501182000 -0300" stop="20190501191500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501191500 -0300" stop="20190501201000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501201000 -0300" stop="20190501210500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501210500 -0300" stop="20190501220000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501220000 -0300" stop="20190501225500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501225500 -0300" stop="20190501235000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190501235000 -0300" stop="20190502004500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502004500 -0300" stop="20190502014000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502014000 -0300" stop="20190502023500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502023500 -0300" stop="20190502033000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502033000 -0300" stop="20190502042500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502042500 -0300" stop="20190502051500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502051500 -0300" stop="20190502060000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502060000 -0300" stop="20190502070000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502070000 -0300" stop="20190502080000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502080000 -0300" stop="20190502090000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502090000 -0300" stop="20190502100000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502100000 -0300" stop="20190502110000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502110000 -0300" stop="20190502115500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502115500 -0300" stop="20190502125000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502125000 -0300" stop="20190502134500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502134500 -0300" stop="20190502144000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502144000 -0300" stop="20190502153500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502153500 -0300" stop="20190502163000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502163000 -0300" stop="20190502172500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502172500 -0300" stop="20190502182000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502182000 -0300" stop="20190502191500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502191500 -0300" stop="20190502201000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502201000 -0300" stop="20190502210500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502210500 -0300" stop="20190502220000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502220000 -0300" stop="20190502225500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">The Blacklist</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502225500 -0300" stop="20190502235000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190502235000 -0300" stop="20190503004500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">The Blacklist</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503004500 -0300" stop="20190503014000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503014000 -0300" stop="20190503023500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503023500 -0300" stop="20190503033000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503033000 -0300" stop="20190503042500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503042500 -0300" stop="20190503051500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503051500 -0300" stop="20190503060000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503060000 -0300" stop="20190503070000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503070000 -0300" stop="20190503080000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503080000 -0300" stop="20190503090000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503090000 -0300" stop="20190503100000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503100000 -0300" stop="20190503110000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503110000 -0300" stop="20190503115500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503115500 -0300" stop="20190503125000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503125000 -0300" stop="20190503134500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503134500 -0300" stop="20190503144000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">The Blacklist</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503144000 -0300" stop="20190503153500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503153500 -0300" stop="20190503163000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503163000 -0300" stop="20190503172500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503172500 -0300" stop="20190503182000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503182000 -0300" stop="20190503191500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503191500 -0300" stop="20190503201000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503201000 -0300" stop="20190503210500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503210500 -0300" stop="20190503220000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503220000 -0300" stop="20190503225500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Absentia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503225500 -0300" stop="20190503235000 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190503235000 -0300" stop="20190504004500 -0300" channel="Brasil AXN HD">
-    <title lang="pt">Criminal Minds</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
+  <programme start="20190430000000 -0300" stop="20190430010000 -0300" channel="Rede TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">O seu final de noite com muito mais cultura, entretenimento e informação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430010000 -0300" stop="20190430030000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190430030000 -0300" stop="20190430050000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja da Graça no seu Lar</title>
+    <desc lang="pt">Muitas vezes a correria do mundo moderno nos afasta da igreja. Pensando nisso, a Rit leva os cultos até você. O igreja da graça no seu lar coloca o telespectador dentro da sede da iigd em São Paulo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430050000 -0300" stop="20190430083000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430083000 -0300" stop="20190430090000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190430090000 -0300" stop="20190430093000 -0300" channel="Rede TV">
+    <title lang="pt">Calculadora</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430093000 -0300" stop="20190430100000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190430100000 -0300" stop="20190430110000 -0300" channel="Rede TV">
+    <title lang="pt">Olga</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430110000 -0300" stop="20190430120000 -0300" channel="Rede TV">
+    <title lang="pt">Edu Guedes e Você</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430120000 -0300" stop="20190430130000 -0300" channel="Rede TV">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190430130000 -0300" stop="20190430150000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430150000 -0300" stop="20190430170000 -0300" channel="Rede TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190430170000 -0300" stop="20190430180000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430180000 -0300" stop="20190430192500 -0300" channel="Rede TV">
+    <title lang="pt">Tricotando</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430192500 -0300" stop="20190430203000 -0300" channel="Rede TV">
+    <title lang="pt">RedeTV News</title>
+    <desc lang="pt">O REDE TV NEWS traz os principais acontecimentos do Brasil e do mundo, com qualidade, alta tecnologia e transmissão 100% HD Digital, com a participação de correspondentes internacionais e os melhores comentaristas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430203000 -0300" stop="20190430213000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190430213000 -0300" stop="20190430224500 -0300" channel="Rede TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190430224500 -0300" stop="20190501000000 -0300" channel="Rede TV">
+    <title lang="pt">Luciana by Night</title>
+    <desc lang="pt">Luciana Gimenez receberá, a cada programa, personalidades, artistas e pessoas em evidência para um bate-papo descontraído sobre os assuntos em destaque no Brasil e no mundo(n)</desc>
+    <credits>
+      <actor>Luciana Gimenez</actor>
+      <actor>Diogo Portugal</actor>
+    </credits>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190501000000 -0300" stop="20190501003000 -0300" channel="Rede TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">O seu final de noite com muito mais cultura, entretenimento e informação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501003000 -0300" stop="20190501013000 -0300" channel="Rede TV">
+    <title lang="pt">É Notícia</title>
+    <desc lang="pt">Apresentado por Amanda Klein, o programa traz semanalmente entrevistas com personalidades do Brasil e do exterior(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501013000 -0300" stop="20190501030000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190501030000 -0300" stop="20190501050000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja da Graça no seu Lar</title>
+    <desc lang="pt">Muitas vezes a correria do mundo moderno nos afasta da igreja. Pensando nisso, a Rit leva os cultos até você. O igreja da graça no seu lar coloca o telespectador dentro da sede da iigd em São Paulo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501050000 -0300" stop="20190501083000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501083000 -0300" stop="20190501090000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190501090000 -0300" stop="20190501093000 -0300" channel="Rede TV">
+    <title lang="pt">Calculadora</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501093000 -0300" stop="20190501100000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190501100000 -0300" stop="20190501110000 -0300" channel="Rede TV">
+    <title lang="pt">Olga</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501110000 -0300" stop="20190501120000 -0300" channel="Rede TV">
+    <title lang="pt">Edu Guedes e Você</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501120000 -0300" stop="20190501130000 -0300" channel="Rede TV">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190501130000 -0300" stop="20190501150000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501150000 -0300" stop="20190501170000 -0300" channel="Rede TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190501170000 -0300" stop="20190501180000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501180000 -0300" stop="20190501192500 -0300" channel="Rede TV">
+    <title lang="pt">Tricotando</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501192500 -0300" stop="20190501203000 -0300" channel="Rede TV">
+    <title lang="pt">RedeTV News</title>
+    <desc lang="pt">O REDE TV NEWS traz os principais acontecimentos do Brasil e do mundo, com qualidade, alta tecnologia e transmissão 100% HD Digital, com a participação de correspondentes internacionais e os melhores comentaristas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501203000 -0300" stop="20190501213000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190501213000 -0300" stop="20190501223000 -0300" channel="Rede TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190501223000 -0300" stop="20190502000000 -0300" channel="Rede TV">
+    <title lang="pt">SuperPop</title>
+    <desc lang="pt">Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190502000000 -0300" stop="20190502003000 -0300" channel="Rede TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">O seu final de noite com muito mais cultura, entretenimento e informação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502003000 -0300" stop="20190502030000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502030000 -0300" stop="20190502050000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja da Graça no seu Lar</title>
+    <desc lang="pt">Muitas vezes a correria do mundo moderno nos afasta da igreja. Pensando nisso, a Rit leva os cultos até você. O igreja da graça no seu lar coloca o telespectador dentro da sede da iigd em São Paulo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502050000 -0300" stop="20190502083000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502083000 -0300" stop="20190502090000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502090000 -0300" stop="20190502093000 -0300" channel="Rede TV">
+    <title lang="pt">Calculadora</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502093000 -0300" stop="20190502100000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502100000 -0300" stop="20190502110000 -0300" channel="Rede TV">
+    <title lang="pt">Olga</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502110000 -0300" stop="20190502120000 -0300" channel="Rede TV">
+    <title lang="pt">Edu Guedes e Você</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502120000 -0300" stop="20190502130000 -0300" channel="Rede TV">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502130000 -0300" stop="20190502150000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502150000 -0300" stop="20190502170000 -0300" channel="Rede TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502170000 -0300" stop="20190502180000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502180000 -0300" stop="20190502192500 -0300" channel="Rede TV">
+    <title lang="pt">Tricotando</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502192500 -0300" stop="20190502203000 -0300" channel="Rede TV">
+    <title lang="pt">RedeTV News</title>
+    <desc lang="pt">O REDE TV NEWS traz os principais acontecimentos do Brasil e do mundo, com qualidade, alta tecnologia e transmissão 100% HD Digital, com a participação de correspondentes internacionais e os melhores comentaristas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502203000 -0300" stop="20190502213000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190502213000 -0300" stop="20190502224500 -0300" channel="Rede TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190502224500 -0300" stop="20190503000000 -0300" channel="Rede TV">
+    <title lang="pt">Sensacional</title>
+    <desc lang="pt">Um programa de variedades, leve e divertido, para toda a família(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503000000 -0300" stop="20190503003000 -0300" channel="Rede TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">O seu final de noite com muito mais cultura, entretenimento e informação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503003000 -0300" stop="20190503030000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190503030000 -0300" stop="20190503050000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja da Graça no seu Lar</title>
+    <desc lang="pt">Muitas vezes a correria do mundo moderno nos afasta da igreja. Pensando nisso, a Rit leva os cultos até você. O igreja da graça no seu lar coloca o telespectador dentro da sede da iigd em São Paulo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503050000 -0300" stop="20190503083000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503083000 -0300" stop="20190503090000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190503090000 -0300" stop="20190503093000 -0300" channel="Rede TV">
+    <title lang="pt">Calculadora</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503093000 -0300" stop="20190503100000 -0300" channel="Rede TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190503100000 -0300" stop="20190503110000 -0300" channel="Rede TV">
+    <title lang="pt">Olga</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503110000 -0300" stop="20190503120000 -0300" channel="Rede TV">
+    <title lang="pt">Edu Guedes e Você</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503120000 -0300" stop="20190503130000 -0300" channel="Rede TV">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190503130000 -0300" stop="20190503150000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503150000 -0300" stop="20190503170000 -0300" channel="Rede TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190503170000 -0300" stop="20190503180000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503180000 -0300" stop="20190503192500 -0300" channel="Rede TV">
+    <title lang="pt">Tricotando</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503192500 -0300" stop="20190503203000 -0300" channel="Rede TV">
+    <title lang="pt">RedeTV News</title>
+    <desc lang="pt">O REDE TV NEWS traz os principais acontecimentos do Brasil e do mundo, com qualidade, alta tecnologia e transmissão 100% HD Digital, com a participação de correspondentes internacionais e os melhores comentaristas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503203000 -0300" stop="20190503213000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190503213000 -0300" stop="20190503221500 -0300" channel="Rede TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190503221500 -0300" stop="20190503230000 -0300" channel="Rede TV">
+    <title lang="pt">Documento Verdade</title>
+    <desc lang="pt">Programa de reportagens especiais sobre os mais diversos assuntos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
   </programme>
 </tv>
