@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="discovery.channel.br" tvg-name="discovery.channel.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png" group-title="Documentários",discovery.channel.br
+http://lista.iptvcs.eu:80/0bh4l6/igx1cx/351
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET -- BR" tvg-logo="" group-title="Documentários",ANIMAL PLANET -- BR
+http://lista.iptvcs.eu:80/0bh4l6/igx1cx/75
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC -- BR" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais de Filmes",AMC -- BR
+http://lista.iptvcs.eu:80/0bh4l6/igx1cx/401
