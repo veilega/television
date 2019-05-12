@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo_News">
+    <display-name lang="pt">Globo_News</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190512000000 -0300" stop="20190512000500 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512000500 -0300" stop="20190512003000 -0300" channel="Globo_News">
+    <title lang="pt">Roberto D\u2019avila</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512003000 -0300" stop="20190512010000 -0300" channel="Globo_News">
+    <title lang="pt">Globonews Em Movimento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512010000 -0300" stop="20190512010500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512010500 -0300" stop="20190512013000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Política</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512013000 -0300" stop="20190512020000 -0300" channel="Globo_News">
+    <title lang="pt">Mundo S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512020000 -0300" stop="20190512020500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512020500 -0300" stop="20190512023000 -0300" channel="Globo_News">
+    <title lang="pt">Arquivo N</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512023000 -0300" stop="20190512030000 -0300" channel="Globo_News">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512030000 -0300" stop="20190512030500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512030500 -0300" stop="20190512040000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Painel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512040000 -0300" stop="20190512040500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512040500 -0300" stop="20190512043000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Internacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512043000 -0300" stop="20190512050000 -0300" channel="Globo_News">
+    <title lang="pt">Roberto D\u2019avila</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512050000 -0300" stop="20190512060000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512060000 -0300" stop="20190512060500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512060500 -0300" stop="20190512063000 -0300" channel="Globo_News">
+    <title lang="pt">Arquivo N</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512063000 -0300" stop="20190512080000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Documentário</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512080000 -0300" stop="20190512083000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512083000 -0300" stop="20190512090000 -0300" channel="Globo_News">
+    <title lang="pt">Pequenas Empresas, Grandes Negócios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512090000 -0300" stop="20190512090500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512090500 -0300" stop="20190512100000 -0300" channel="Globo_News">
+    <title lang="pt">Globo Rural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512100000 -0300" stop="20190512103000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512103000 -0300" stop="20190512110000 -0300" channel="Globo_News">
+    <title lang="pt">Fatos e Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512110000 -0300" stop="20190512110500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512110500 -0300" stop="20190512120000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Painel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512120000 -0300" stop="20190512123000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512123000 -0300" stop="20190512130000 -0300" channel="Globo_News">
+    <title lang="pt">Roberto D\u2019avila</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512130000 -0300" stop="20190512130500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512130500 -0300" stop="20190512133000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Internacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512133000 -0300" stop="20190512140000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Política</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512140000 -0300" stop="20190512141000 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512141000 -0300" stop="20190512150000 -0300" channel="Globo_News">
+    <title lang="pt">Conversa com Bial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512150000 -0300" stop="20190512153000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512153000 -0300" stop="20190512160000 -0300" channel="Globo_News">
+    <title lang="pt">Em Foco Com Andréia Sadi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512160000 -0300" stop="20190512160500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512160500 -0300" stop="20190512170000 -0300" channel="Globo_News">
+    <title lang="pt">Via Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512170000 -0300" stop="20190512170500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512170500 -0300" stop="20190512173000 -0300" channel="Globo_News">
+    <title lang="pt">Fatos e Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512173000 -0300" stop="20190512180000 -0300" channel="Globo_News">
+    <title lang="pt">Arquivo N</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512180000 -0300" stop="20190512183000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512183000 -0300" stop="20190512190000 -0300" channel="Globo_News">
+    <title lang="pt">Fernando Gabeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512190000 -0300" stop="20190512190500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512190500 -0300" stop="20190512200000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Painel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512200000 -0300" stop="20190512203000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512203000 -0300" stop="20190512210000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512210000 -0300" stop="20190512210500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512210500 -0300" stop="20190512213000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Internacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512213000 -0300" stop="20190512220000 -0300" channel="Globo_News">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512220000 -0300" stop="20190512223000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512223000 -0300" stop="20190512230000 -0300" channel="Globo_News">
+    <title lang="pt">Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190512230000 -0300" stop="20190513000000 -0300" channel="Globo_News">
+    <title lang="pt">Manhattan Connection</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513000000 -0300" stop="20190513000500 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513000500 -0300" stop="20190513020000 -0300" channel="Globo_News">
+    <title lang="pt">Fantástico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513020000 -0300" stop="20190513020500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513020500 -0300" stop="20190513023000 -0300" channel="Globo_News">
+    <title lang="pt">Fernando Gabeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513023000 -0300" stop="20190513030500 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513030500 -0300" stop="20190513033000 -0300" channel="Globo_News">
+    <title lang="pt">Cidades e Soluções</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513033000 -0300" stop="20190513040000 -0300" channel="Globo_News">
+    <title lang="pt">Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513040000 -0300" stop="20190513040500 -0300" channel="Globo_News">
+    <title lang="pt">Boletim de Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513040500 -0300" stop="20190513043000 -0300" channel="Globo_News">
+    <title lang="pt">Fatos e Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513043000 -0300" stop="20190513053000 -0300" channel="Globo_News">
+    <title lang="pt">Manhattan Connection</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513053000 -0300" stop="20190513060000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513060000 -0300" stop="20190513090000 -0300" channel="Globo_News">
+    <title lang="pt">Globonews Em Ponto</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513090000 -0300" stop="20190513100000 -0300" channel="Globo_News">
+    <title lang="pt">Bom Dia Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513100000 -0300" stop="20190513130000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513130000 -0300" stop="20190513160000 -0300" channel="Globo_News">
+    <title lang="pt">Estúdio i</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513160000 -0300" stop="20190513180000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513180000 -0300" stop="20190513200000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513200000 -0300" stop="20190513213000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513213000 -0300" stop="20190513220000 -0300" channel="Globo_News">
+    <title lang="pt">Cidades e Soluções</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513220000 -0300" stop="20190513230000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513230000 -0300" stop="20190513233000 -0300" channel="Globo_News">
+    <title lang="pt">Roberto D\u2019avila</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513233000 -0300" stop="20190514000000 -0300" channel="Globo_News">
+    <title lang="pt">Mundo S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514000000 -0300" stop="20190514003000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514003000 -0300" stop="20190514010000 -0300" channel="Globo_News">
+    <title lang="pt">Milênio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514010000 -0300" stop="20190514013000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514013000 -0300" stop="20190514030000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514030000 -0300" stop="20190514030500 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514030500 -0300" stop="20190514033000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514033000 -0300" stop="20190514040000 -0300" channel="Globo_News">
+    <title lang="pt">Fernando Gabeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514040000 -0300" stop="20190514040500 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514040500 -0300" stop="20190514043000 -0300" channel="Globo_News">
+    <title lang="pt">Milênio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514043000 -0300" stop="20190514050000 -0300" channel="Globo_News">
+    <title lang="pt">Cidades e Soluções</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514050000 -0300" stop="20190514060000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514060000 -0300" stop="20190514090000 -0300" channel="Globo_News">
+    <title lang="pt">Globonews Em Ponto</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514090000 -0300" stop="20190514100000 -0300" channel="Globo_News">
+    <title lang="pt">Bom Dia Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514100000 -0300" stop="20190514130000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514130000 -0300" stop="20190514160000 -0300" channel="Globo_News">
+    <title lang="pt">Estúdio i</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514160000 -0300" stop="20190514180000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514180000 -0300" stop="20190514200000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514200000 -0300" stop="20190514213000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514213000 -0300" stop="20190514220000 -0300" channel="Globo_News">
+    <title lang="pt">Fernando Gabeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514220000 -0300" stop="20190514230000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514230000 -0300" stop="20190514233000 -0300" channel="Globo_News">
+    <title lang="pt">Entre Aspas</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514233000 -0300" stop="20190515000000 -0300" channel="Globo_News">
+    <title lang="pt">Arquivo N</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515000000 -0300" stop="20190515003000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515003000 -0300" stop="20190515010000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515010000 -0300" stop="20190515013000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515013000 -0300" stop="20190515030000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515030000 -0300" stop="20190515030500 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515030500 -0300" stop="20190515033000 -0300" channel="Globo_News">
+    <title lang="pt">Mundo S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515033000 -0300" stop="20190515040000 -0300" channel="Globo_News">
+    <title lang="pt">Entre Aspas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515040000 -0300" stop="20190515040500 -0300" channel="Globo_News">
+    <title lang="pt">Jornal Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515040500 -0300" stop="20190515050000 -0300" channel="Globo_News">
+    <title lang="pt">Via Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515050000 -0300" stop="20190515060000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515060000 -0300" stop="20190515090000 -0300" channel="Globo_News">
+    <title lang="pt">Globonews Em Ponto</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515090000 -0300" stop="20190515100000 -0300" channel="Globo_News">
+    <title lang="pt">Bom Dia Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515100000 -0300" stop="20190515130000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515130000 -0300" stop="20190515160000 -0300" channel="Globo_News">
+    <title lang="pt">Estúdio i</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515160000 -0300" stop="20190515180000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515180000 -0300" stop="20190515200000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal GloboNews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515200000 -0300" stop="20190515213000 -0300" channel="Globo_News">
+    <title lang="pt">GloboNews em Pauta</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515213000 -0300" stop="20190515220000 -0300" channel="Globo_News">
+    <title lang="pt">Em Foco Com Andréia Sadi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515220000 -0300" stop="20190515230000 -0300" channel="Globo_News">
+    <title lang="pt">Jornal das Dez</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515230000 -0300" stop="20190516000000 -0300" channel="Globo_News">
+    <title lang="pt">Central Globonews</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
