@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET -- BR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20110408215002" group-title="Documentários",ANIMAL PLANET -- BR
+http://lista.iptvcs.eu:80/zvircx/tdsyjm/399
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO -- BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentários",DISCOVERY TURBO -- BR
+http://lista.iptvcs.eu:80/zvircx/tdsyjm/335
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA -- BR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Futura_Play_Horizontal.png/revision/latest/scale-to-width-down/640?cb=20160229000922" group-title="Canais Abertos",FUTURA -- BR
+http://lista.iptvcs.eu:80/zvircx/tdsyjm/270
