@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Tc Pipoca Legendado">
+    <display-name lang="pt">Tc Pipoca Legendado</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190513013000 -0300" stop="20190513031000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Um Dia para Viver</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513031000 -0300" stop="20190513053500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Armas na Mesa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513053500 -0300" stop="20190513075500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Grandes Esperanças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513075500 -0300" stop="20190513100500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Tudo Acontece em Elizabethtown</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513100500 -0300" stop="20190513115000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Um Conto de Sereia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513115000 -0300" stop="20190513133500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Lino: Uma Aventura de Sete Vidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513133500 -0300" stop="20190513152000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">A Escolha Perfeita 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513152000 -0300" stop="20190513171000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513171000 -0300" stop="20190513192500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513192500 -0300" stop="20190513220000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Vingadores: Guerra Infinita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190513220000 -0300" stop="20190514000000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Sansão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514000000 -0300" stop="20190514014500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Perigo na Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514014500 -0300" stop="20190514034500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Como Ser Solteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514034500 -0300" stop="20190514054500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Megan Leavey</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514054500 -0300" stop="20190514075500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Você Acredita?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514075500 -0300" stop="20190514100000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Em Defesa de Cristo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514100000 -0300" stop="20190514115500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Os Farofeiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514115500 -0300" stop="20190514140000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">The Post</title>
+    <sub-title lang="pt">A Guerra Secreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514140000 -0300" stop="20190514154000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Stratton</title>
+    <sub-title lang="pt">Forças Especiais</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514154000 -0300" stop="20190514175000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Piratas da Somália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514175000 -0300" stop="20190514193500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Rota de Fuga 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514193500 -0300" stop="20190514220000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Sete Homens e um Destino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190514220000 -0300" stop="20190515002500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Hostis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515002500 -0300" stop="20190515023000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Três Anúncios Para um Crime</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515023000 -0300" stop="20190515043000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">A Máquina de Lembranças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515043000 -0300" stop="20190515065000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">A Última Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515065000 -0300" stop="20190515084500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">A Última Jornada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515084500 -0300" stop="20190515104500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Poder Paranormal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515104500 -0300" stop="20190515125000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">O Ultimato Bourne</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515125000 -0300" stop="20190515144500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Sansão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515144500 -0300" stop="20190515163500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Arranha-Céu: Coragem sem Limite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515163500 -0300" stop="20190515182000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Perigo na Montanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515182000 -0300" stop="20190515201000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">O Nome da Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515201000 -0300" stop="20190515220000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">O Passageiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515220000 -0300" stop="20190515235500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Desejo de Matar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190515235500 -0300" stop="20190516014000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Crimes na Madrugada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516014000 -0300" stop="20190516035000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Piratas da Somália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516035000 -0300" stop="20190516060000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Mais Forte Que o Mundo</title>
+    <sub-title lang="pt">A História de José Aldo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516060000 -0300" stop="20190516081500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">A Mexicana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516081500 -0300" stop="20190516101500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">A Grande Escolha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516101500 -0300" stop="20190516121000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Mortdecai</title>
+    <sub-title lang="pt">A Arte da Trapaça</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516121000 -0300" stop="20190516135500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Rota de Fuga 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516135500 -0300" stop="20190516162000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Sete Homens e um Destino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516162000 -0300" stop="20190516182500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Três Anúncios Para um Crime</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516182500 -0300" stop="20190516202000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Desejo de Matar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516202000 -0300" stop="20190516220000 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Uma Quase Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190516220000 -0300" stop="20190517000500 -0300" channel="Tc Pipoca Legendado">
+    <title lang="pt">Tomb Raider: A Origem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
